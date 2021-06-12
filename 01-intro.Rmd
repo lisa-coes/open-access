@@ -1,5 +1,37 @@
 # Propiedad intelectual {#propiedad}
 
-- Propiedad intelectual
-  - Licencias --> Ciencias sociales
-  - Problemas de la propiedad intelectual
+## Breve Introducción  
+
+El proceso de creación de una obra, ya sea literaria o científica, es como adentrarnos al cultivo agrícola, donde con nuestros talentos y conocimientos trabajaremos la tierra para sacar a relucir provechosas cosechas que posteriormente entregaremos a grandes conglomerados que se encargaran de compartir y comercializar nuestra producción con otros trabajadores/as de la tierra, pero claro está, que otorgandonos el debido reconocimiento de nuestra labor. Si bien, el ejemplo anterior remite a un producto material, el cultivo de los conocimientos científicos y la elaboración de productos que sinteticen tales conocimientos sigue un proceso muy parecido. Hoy en día, la era digital ha traído consigo muchos beneficios para el quehacer científico, facilitando la creación y divulgación inmediata de los conocimientos, lo cual no siempre es un mero aspecto positivo pues el desconocimiento de lo permitido y lo prohibido por la ley se asienta como el principal obstáculo para dar el paso hacia la apertura de datos (Fernández, J. et al. 2018). Asimismo, el temor por el plagio o sustracción del conocimiento propio es válido, pues nadie querrá perder el reconocimiento autoral de meses o años de trabajo investigativo, no obstante, adentrarnos en el paradigma del _Open Science_ es un desafío que como investigadores/as debemos considerar para efectos del propio éxito de nuestros trabajos y para aportar al conocimiento colectivo, por ello el punto de partida está en conocer los derechos que como autores y creadores tenemos sobre nuestras obras y que son reconocidos a tanto a nacional como internacional. 
+
+Para conocer las especificaciones jurídicas de la propiedad intelectual debemos comprender que estas son facultades exclusivas que posee el autor/a sobre su obra y que le permiten gozar de su uso y explotación (Loredo, A. 2012). A lo largo de la historia se han desarrollado dos tradiciones que buscan otorgar protección y regularización para la difusión de obras, la primera de ellas es la anglosajona _(Common Law)_ que nace del estatuto de la Reina Ana en 1709, la primera norma que introduce el término de _Copyright_ (Omatos, A. 2013). Esta tradición que opera principalmente en países como Estados Unidos e Inglaterra, se erige con una perspectiva utilitarista de los derechos que posee el autor/a sobre su obra, ósea que establece los derechos patrimoniales que regulan la reproducción (copia) de la obra, su distribución, su exhibición pública y su transformación ya sea traducida o adaptada (Férnandez, 2009). Estos derechos tienen la particularidad de que pueden ser transferidos ya sea por voluntad propia o por prescripción, siendo así ampliados los derechos bajo distintos tipos de licencias de _Copyrigth, Creative Commons, Copyleft y Dominio Público_. (Omatos, A. 2013). La segunda tradición corresponde a la romana-germánica o bien conocida como derechos de autor, la cual es ampliamente regulada en Europa continental y Latinoamérica. Los derechos de autor además de regular las facultades patrimoniales, incluyen el derecho moral irrenunciable e inalienable que posee el autor/a sobre su obra (Loredo, A. 2012), el cual establece el reconocimiento de la paternidad del autor/a sobre su creación y la integridad de su trabajo, de modo que imposibilita su deformación.
+
+hshsh
+
+## Tipos de Licencias
+
+Como se mencionó anteriormente, las licencias sobre la propiedad intelectual regulan los derechos patrimoniales de la obra, de modo que establecen las reglas para su uso. A continuación se presenta una breve descripción de cada una de ellas.  
+    - *Copyright:* _"Todos los derechos reservados"._ La utilización de la obra solo puede ser bajo permiso del autor/a.  
+    - *Creative Commons:* _"Algunos derechos reservados"._ Esta licencia se inspira en la GPL (General Public License) que es una licencia que permite el uso de software y códigos de libre acceso. Su propósito es ahondar en herramientas digitales que faciliten la distribución de la obra por medio de la autorización reglamentada dictada por el autor/a, tales condiciones se pueden ir mezclando entre sí para entregar diferentes directrices de como utilizar y difundir la obra.  
+        - Reconocimiento: condición obligatoria, todo trabajo que haga uso de una obra debe reconocerla.  
+        - Uso No Comercial: El uso de la obra y divulgación de la obra no puede sostenerse en fines comerciales.  
+        - Sin obra Derivada: Permite la copia y distribución de la obra pero sin la posibilidad de crear un derivado de esta.  
+        - Compartir igual: Se permiten crear trabajos a partir de la obra original bajo la condición de que mantengan las mismas licencias.  
+    - *Copyleft:* Libre uso de la obra y de las que le prosigan. Este tipo de licencia proviene del movimiento _Open Access_ y se orientan al uso, aplicación, distribución y creación de obras de libre acceso.  
+    - *Dominio Público:* Si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.   
+  
+## Referencias
+
+Férnandez, J. (18 de septiembre de 2009). _Derechos de autor en plataformas e-learning._ Recuperado de: https://www.ugr.es/~derechosdeautor/derechos_autor.html  
+
+Fernández, J; Graziosi, E. & Martínez, D. (2018). _Derechos de autor y ciencia abierta: el papel de la biblioteca universitaria._ En VII Conferencia Biredial-ISTEC, Lima - Perú. Recuperado de: http://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/133163/Juan-Carlos%20Fern%C3%A1ndez-Molina%20-%20Derechos%20de%20autor%20y%20ciencia%20abierta%20el%20papel%20de%20la%20biblioteca%20universitaria.pdf?sequence=6&isAllowed=y 
+
+Loredo, O. (3 de diciembre de 2012). _Derecho comparado: Derecho de Autor y Copyright. Dos Caminos que se encuentran._ Recuperado de: https://egov.ufsc.br/portal/conteudo/derecho-comparado-derecho-de-autor-y-copyright-dos-caminos-que-se-encuentran 
+
+Omatos, A. (4 de octubre de 2013). _Aspectos Legales en la Educación._ Recuperado de: http://aomatos.edurioja.org/legalidad/index.html 
+
+## Otros links de interés
+
+Consejo Nacional de la Cultura y las Artes. (2013). Guía de propiedad intelectual y derecho de autor. Santiago, Chile. Recuperado de: https://www.cultura.gob.cl/wp-content/uploads/2013/11/guia-propiedad-intelectual.pdf 
+
+Universidad del Desarrollo [UDD]. (2019). Manual de Propiedad Intelectual y Transferencia Tecnológica Universidad del Desarrollo. Recuperado de: https://cdd.udd.cl/files/2019/05/Manual-de-Propiedad-intelectual.pdf 
