@@ -1,16 +1,9 @@
-resumen
 propiedad
 breve-introducción
 tipos-de-licencias
 problemas-asociados-a-la-propiedad-intelectual
 referencias
 otros-links-de-interés
-literature
-methods
-applications
-example-one
-example-two
-final-words
 formas-open-access
 herramientas-para-publicar
 repositorios
