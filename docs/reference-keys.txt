@@ -9,3 +9,5 @@ herramientas-para-publicar
 repositorios
 otras-herramientas
 pasos-para-publicar-libre
+qué-es-la-propiedad-intelectual
+qué-es-la-propiedad-intelectual-y-las-licencias
