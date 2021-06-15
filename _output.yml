@@ -2,13 +2,13 @@ bookdown::gitbook:
   highlight: tango
   css: assets/lisa.css
   includes:
-    before_body: assets/lisa-complete.html
+    before_body: assets/big-image.html
     after_body: assets/footer.html
   config:
     toc:
       collapse: section
       before: |
-        <li><a href="./">Open Access-LISA (COES)</a></li>
+        <li class="toc-logo"><a href="./"><img src="images/favicon.jpg"></a></li>
       after: |
         <li><a href="https://github.com/lisa-coes" target="blank">LISA-COES <i class="fa fa-github"></i></a></li>
     download: ["pdf", "epub"]
