@@ -16,3 +16,4 @@ herramientas-para-publicar
 repositorios
 otras-herramientas
 pasos-para-publicar-libre
+qué-es-una-licencia
