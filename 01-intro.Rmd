@@ -35,15 +35,35 @@ Las licencias sobre la propiedad intelectual regulan los derechos patrimoniales 
 
 4. **Dominio Público:** si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.   
 
-## Problemas asociados a la propiedad intelectual
+## Educación sobre propiedad intelectual y licencia 
 
-El derecho que regula la propieda intelectual busca lograr un *equilibrio entre las partes involucradas y los intereses de por medio*, y por ello es necesario conocer las directrices de lo permitido y lo prohibido.
+¿A quién pertenece el reconocimiento legal de una tesis de pregrado, magister o doctorado? ¿A su autor/a, a la unviersidad, es de dominio público? ¿Cuáles son los desafíos que presenta la regulación actual de la ciencia? Inicialmente las respuestas a estas preguntas nos entrampan en la incerteza del poder autoral y de las posibilidades que tenemos como investigadores/as de hacer uso de otros trabajos, por ello el paradigma de la _Ciencia Abierta_ busca ser un aporte tanto para responder a las preguntas como para dar paso al fortalecimiento de la transparencia de conocimientos. En países como Estados Unidos la educación sobre propiedad intelectual y el desarrollo de la ciencia abierta es más extendido (por universidades y bibliotecas), en Chile estos conocimientos han empezado a tomar poco a poco mayor fuerza aunque aún a un nivel inferior. A continuación, se presentan las principales iniciativas que buscan promover la apertura de datos:  
 
-El desconocimiento de estas normas generan sentimientos de inseguridad ante las posibles sanciones que acarrea el incorrecto uso de material intelectual (Fernández, et. al 2018). Si bien, en países como Estados Unidos la educación sobre propiedad intelectual es más extendida (por universidades y bibliotecas), en Chile estos conocimientos se profundizan solo en las ciencias jurídicas (Fernández, et. al 2018)
+1. **LA Referencia:** Es una red latinoamericana de repositorios de acceso abierto. Esta se basa en acuerdos técnicos y organizativos que permite a organismos públicos de ciencia y tecnología y a la Cooperación Latinoamericana de Redes Avanzadas (RedCLARA) trabajar en conjunto. Nació entre 2010 y 2013 como un proyecto coordinado por RedCLARA y que hoy promueve el desarrollo y fortalecimiento de estrategias de _Acceso Abierto_ en la elaboración de artículos científicos y tesis en Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, España, Panamá, Perú y Uruguay.
 
-El crecimiento científico en la era digital, sumado en un contexto económico neoliberal, permite la aparición de intereses tanto privados como públicos en la actividad científica, lo cual se contrapone con ciertos criterios que excluyen la posibilidad de acceso para el desarrollo de nuevas investigaciones que tienen propósitos distintos, ya sea con fines comerciales o no (Restrepo, O. 2014). Las restricciones en términos de reproducibilidad deja en manifiesto un obstáculo para el desarrollo de conocimientos nuevos y, en cierto sentido, una exclusión particular del segmento que no pueden acceder a las obras originales. 
+> _*“Global Open Policy Report”*_ es un estudio desarrollado por *Creative Commons* y *Open Policy Network* que para su publicación del 2017 destaco el trabajo de Chile y Argentina, catalogándolos como líderes mundiales en el desarrollo de políticas abiertas. [*Conicyt, 9 de enero 2017*](https://www.conicyt.cl/informacioncientifica/2017/01/09/chile-y-argentina-destacados-como-ejemplos-de-politicas-de-acceso-abierto-a-la-informacion/)  
+
+2. **Anid:** Desde el 2021 la Agencia Nacional de Investigación y Desarrollo (ANID) ha comenzado a implementar una Política de Acceso Abierto cuyo objetivo es asegurar la disponibilidad del conocimiento científico que resulte de la elaboración de investigaciones financiadas por ANID. Actualmente, se encuentra abierta una convoctoria para que las universidades chilenas interesadas logren desarrollas capacidades que les permitan alinearse con los estándares internacionales de la Ciencia Abierta.  
+
+3. **Dirección de Servicios de Información y Bibliotecas (SISIB) - Universidad de Chile:**  
+
+  + *Red de Repositorios Latinoamericanos:* surge en 2006 gracias a la labor de SISIB. Su objetivo es ser una herramienta de fácil acceso a las publicaciones electrónicas de diferentes repositorios de los países de América Latina. Hoy en día el avance es tal que cuenta con más de 2.515.000 publicaciones, de más de 163 instituciones de 21 países. Además, gracias al protocolo _Open Archives Initiative's Protocol for Metadata Harvesting (OAI-PMH)_ permite operar entre los diferentes servidores y repositorios de los 21 países. [Red de Repositorios Latinoamericanos, 2021](http://repositorioslatinoamericanos.uchile.cl/)  
+  
+  + *7° Congreso de Bibliotecas Universitarias y Especializadas:* En enero del 2021 SISIB organizó el evento que reunió a más de mil asistentes de más de 20 países durante tres jornadas. Las principales conclusiones del evento indican que [Universidad de Chile, 18 de enero, 2021](https://www.uchile.cl/noticias/172632/ciencia-abierta-fue-eje-en-el-7-congreso-de-bibliotecas) :  
+  
+    + La pandemia ha demostrado que el avance instantaneo de los conocimientos ha sido gracias a los datos abiertos, la publicación de prepints y la reducción de tiempos para publicar.  
+    
+    + El actual sistema de comunicación científica presenta serios problemas ligados a la sostenibilidad, equidad e inclusión, de modo que las universidades deben tomar un rol protagónico para apoyar la gestión de un cambio en el paradigma científico.
+  
+    + La ciencia abierta se convertirá pronto en el marco conceptual para toda investigación, lo que implica reorientar la labor cinetífica hacia la apertura de todas las fases del proceso investigativo para asegurar transparencia y evitar fraudes. 
+  
+    + Patricia Muñoz, Subdirectora de Redes, Estrategia y Conocimiento de ANID enfatizó en la responsabilidad de los y las bibliotecarios/as de fomentar la gestión y depósito de datos abiertos.
   
 ## Referencias
+
+[ANID (1 de junio de 2020). Consulta Pública: Política Acceso Abierto a Información Científica](https://www.anid.cl/blog/2020/04/27/consulta-publica-sobre-politica-de-acceso-abierto-a-informacion-cientifica-y-datos-de-investigacion/)
+
+[Conicyt (9 de enero de 2017). Chile y Argentina son destacados como ejemplos de políticas de acceso abierto a la información](https://www.conicyt.cl/informacioncientifica/2017/01/09/chile-y-argentina-destacados-como-ejemplos-de-politicas-de-acceso-abierto-a-la-informacion/)
 
 [Departamento de Derechos Intelectuales (Sin fecha). _Tratados internacionales._ Ministerio de las Artes y el Patrimonio Cultural](https://www.propiedadintelectual.gob.cl/623/w3-propertyvalue-40381.html?_noredirect=1)
 
@@ -53,7 +73,11 @@ El crecimiento científico en la era digital, sumado en un contexto económico n
 
 [Loredo, O. (3 de diciembre de 2012). _Derecho comparado: Derecho de Autor y Copyright. Dos Caminos que se encuentran._ ](https://egov.ufsc.br/portal/conteudo/derecho-comparado-derecho-de-autor-y-copyright-dos-caminos-que-se-encuentran)
 
+[Red de Repositorios Latinoamericanos (2021). Presentacion](http://repositorioslatinoamericanos.uchile.cl/page/presentacion) 
+
 Restrepo, O. (2014). _Problemas de propiedad Intelectual en el entorno Universitario. Un acercamiento General._ En Estudios de Derecho -Estud. Derecho- Vol. LXXI. N.º 158, Medellín - Colombia.
+
+[Universidad de Chile (18 de enero, 2021). Ciencia abierta y comunicación científica fueron ejes en el 7º Congreso de Bibliotecas Universitarias y Especializadas](https://www.uchile.cl/noticias/172632/ciencia-abierta-fue-eje-en-el-7-congreso-de-bibliotecas)
 
 [Omatos, A. (4 de octubre de 2013). _Aspectos Legales en la Educación._](http://aomatos.edurioja.org/legalidad/index.html)
 
