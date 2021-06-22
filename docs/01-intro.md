@@ -2,60 +2,84 @@
 
 ## ¿Qué es la propiedad intelectual y las licencias?
 
-> La propiedad intelectual nos habla de facultades exclusivas que posee el autor sobre su obra y que le permiten gozar de su uso y explotación (Loredo, A. 2012).
+> La propiedad intelectual nos habla de facultades exclusivas que posee el autor sobre su obra y que le permiten gozar de su uso y explotación [@loredo2006].
 
 Existen dos normativas jurídicas (**licencias**) que buscan otorgar protección y regularización para la difusión de obras:
 
-1. _(Common Law)_: normativa que rige en *Estados Unidos e Inglaterra* y que regula la reproducción (copia) de la obra, su distribución, su exhibición pública y su transformación ya sea traducida o adaptada (Férnandez, 2009). Tienen la particularidad de que pueden ser transferidos ya sea por voluntad propia o por prescripción, siendo así ampliados los derechos bajo distintos tipos de licencias de _Copyrigth, Creative Commons, Copyleft y Dominio Público_. (Omatos, A. 2013)
+1.  *(Common Law)*: normativa que rige en *Estados Unidos e Inglaterra* y que regula la reproducción (copia) de la obra, su distribución, su exhibición pública y su transformación ya sea traducida o adaptada (Férnandez, 2009). Tienen la particularidad de que pueden ser transferidos ya sea por voluntad propia o por prescripción, siendo así ampliados los derechos bajo distintos tipos de licencias de *Copyrigth, Creative Commons, Copyleft y Dominio Público*. (Omatos, A. 2013)
 
-2. _Derechos de autor_: normativa que rige en Europa continental y Latinoamérica, y que además de regular las facultades patrimoniales, *incluyen el derecho moral irrenunciable e inalienable que posee el autor sobre su obra (Loredo, A. 2012), reconociendo la paternidad del autor sobre su creación y la integridad de su trabajo.
+2.  *Derechos de autor*: normativa que rige en Europa continental y Latinoamérica, y que además de regular las facultades patrimoniales, \*incluyen el derecho moral irrenunciable e inalienable que posee el autor sobre su obra (Loredo, A. 2012), reconociendo la paternidad del autor sobre su creación y la integridad de su trabajo.
 
 > Actualmente **Chile** se ha suscrito a tratados internacionales que permimten el resguardo intelectual en otras naciones, los más importantes son dos:
 
->> 1.  *Tratado de Berna* (rectificado en 1973): establece indicaciones a los países asociados para resguardar sus obras en su territorio como si fuesen propias.
-  2. *Convenio de OMPI* (rectificado en 1975):  establece a los países adherentes una suerte de guía para la elaboración de leyes que atiendan el fenómeno dentro de la era digital (Férnandez, J. 2009). 
+> > 1.  *Tratado de Berna* (rectificado en 1973): establece indicaciones a los países asociados para resguardar sus obras en su territorio como si fuesen propias.
+> > 2.  *Convenio de OMPI* (rectificado en 1975): establece a los países adherentes una suerte de guía para la elaboración de leyes que atiendan el fenómeno dentro de la era digital (Férnandez, J. 2009).
 
 ## Tipos de Licencias
 
 Las licencias sobre la propiedad intelectual regulan los derechos patrimoniales de la obra, de modo que establecen las **reglas** para su uso. Las **licencias** más conocidas son:
 
-1. **Copyright:** _"Todos los derechos reservados"._ La utilización de la obra solo puede ser bajo permiso del autor.
+1.  **Copyright:** *"Todos los derechos reservados".* La utilización de la obra solo puede ser bajo permiso del autor.
 
-2. **Creative Commons:** _"Algunos derechos reservados"._ Esta licencia se inspira en la GPL (*General Public License*) que es una **licencia que permite el uso de software y códigos de libre acceso**. Su propósito es ahondar en herramientas digitales que faciliten la **distribución de la obra** por medio de la **autorización reglamentada** dictada por el autor, tales como:  
+2.  **Creative Commons:** *"Algunos derechos reservados".* Esta licencia se inspira en la GPL (*General Public License*) que es una **licencia que permite el uso de software y códigos de libre acceso**. Su propósito es ahondar en herramientas digitales que faciliten la **distribución de la obra** por medio de la **autorización reglamentada** dictada por el autor, tales como:
 
-    + **Reconocimiento**: condición obligatoria, todo trabajo que haga uso de una obra debe reconocerla.  
-  
-    + **Uso No Comercial**: El uso de la obra y divulgación de la obra no puede sostenerse en fines comerciales.   
-  
-    + **Sin obra Derivada**: permite la copia y distribución de la obra pero sin la posibilidad de crear un derivado de esta.    
-  
-    + **Compartir igual**: se permiten crear trabajos a partir de la obra original bajo la condición de que mantengan las mismas licencias.    
-  
-3. **Copyleft:** libre uso de la obra y de las que le prosigan. Este tipo de licencia proviene del movimiento [*Open Access*](https://open-access.net/en/information-on-open-access/history-of-the-open-access-movement) y se orientan al uso, aplicación, distribución y creación de obras de libre acceso.  
+    -   **Reconocimiento**: condición obligatoria, todo trabajo que haga uso de una obra debe reconocerla.
 
-4. **Dominio Público:** si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.   
+    -   **Uso No Comercial**: El uso de la obra y divulgación de la obra no puede sostenerse en fines comerciales.
 
-## Problemas asociados a la propiedad intelectual
+    -   **Sin obra Derivada**: permite la copia y distribución de la obra pero sin la posibilidad de crear un derivado de esta.
 
-El derecho que regula la propieda intelectual busca lograr un *equilibrio entre las partes involucradas y los intereses de por medio*, y por ello es necesario conocer las directrices de lo permitido y lo prohibido.
+    -   **Compartir igual**: se permiten crear trabajos a partir de la obra original bajo la condición de que mantengan las mismas licencias.
 
-El desconocimiento de estas normas generan sentimientos de inseguridad ante las posibles sanciones que acarrea el incorrecto uso de material intelectual (Fernández, et. al 2018). Si bien, en países como Estados Unidos la educación sobre propiedad intelectual es más extendida (por universidades y bibliotecas), en Chile estos conocimientos se profundizan solo en las ciencias jurídicas (Fernández, et. al 2018)
+3.  **Copyleft:** libre uso de la obra y de las que le prosigan. Este tipo de licencia proviene del movimiento [*Open Access*](https://open-access.net/en/information-on-open-access/history-of-the-open-access-movement) y se orientan al uso, aplicación, distribución y creación de obras de libre acceso.
 
-El crecimiento científico en la era digital, sumado en un contexto económico neoliberal, permite la aparición de intereses tanto privados como públicos en la actividad científica, lo cual se contrapone con ciertos criterios que excluyen la posibilidad de acceso para el desarrollo de nuevas investigaciones que tienen propósitos distintos, ya sea con fines comerciales o no (Restrepo, O. 2014). Las restricciones en términos de reproducibilidad deja en manifiesto un obstáculo para el desarrollo de conocimientos nuevos y, en cierto sentido, una exclusión particular del segmento que no pueden acceder a las obras originales. 
-  
+4.  **Dominio Público:** si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.
+
+## Educación sobre propiedad intelectual y licencia
+
+¿A quién pertenece el reconocimiento legal de una tesis de pregrado, magister o doctorado? ¿A su autor/a, a la unviersidad, es de dominio público? ¿Cuáles son los desafíos que presenta la regulación actual de la ciencia? Inicialmente las respuestas a estas preguntas nos entrampan en la incerteza del poder autoral y de las posibilidades que tenemos como investigadores/as de hacer uso de otros trabajos, por ello el paradigma de la *Ciencia Abierta* busca ser un aporte tanto para responder a las preguntas como para dar paso al fortalecimiento de la transparencia de conocimientos. En países como Estados Unidos la educación sobre propiedad intelectual y el desarrollo de la ciencia abierta es más extendido (por universidades y bibliotecas), en Chile estos conocimientos han empezado a tomar poco a poco mayor fuerza aunque aún a un nivel inferior. A continuación, se presentan las principales iniciativas que buscan promover la apertura de datos:
+
+1.  **LA Referencia:** Es una red latinoamericana de repositorios de acceso abierto. Esta se basa en acuerdos técnicos y organizativos que permite a organismos públicos de ciencia y tecnología y a la Cooperación Latinoamericana de Redes Avanzadas (RedCLARA) trabajar en conjunto. Nació entre 2010 y 2013 como un proyecto coordinado por RedCLARA y que hoy promueve el desarrollo y fortalecimiento de estrategias de *Acceso Abierto* en la elaboración de artículos científicos y tesis en Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, España, Panamá, Perú y Uruguay.
+
+> *"Global Open Policy Report"* es un estudio desarrollado por *Creative Commons* y *Open Policy Network* que para su publicación del 2017 destaco el trabajo de Chile y Argentina, catalogándolos como líderes mundiales en el desarrollo de políticas abiertas. [*Conicyt, 9 de enero 2017*](https://www.conicyt.cl/informacioncientifica/2017/01/09/chile-y-argentina-destacados-como-ejemplos-de-politicas-de-acceso-abierto-a-la-informacion/)
+
+2.  **Anid:** Desde el 2021 la Agencia Nacional de Investigación y Desarrollo (ANID) ha comenzado a implementar una Política de Acceso Abierto cuyo objetivo es asegurar la disponibilidad del conocimiento científico que resulte de la elaboración de investigaciones financiadas por ANID. Actualmente, se encuentra abierta una convoctoria para que las universidades chilenas interesadas logren desarrollas capacidades que les permitan alinearse con los estándares internacionales de la Ciencia Abierta.
+
+3.  **Dirección de Servicios de Información y Bibliotecas (SISIB) - Universidad de Chile:**
+
+-   *Red de Repositorios Latinoamericanos:* surge en 2006 gracias a la labor de SISIB. Su objetivo es ser una herramienta de fácil acceso a las publicaciones electrónicas de diferentes repositorios de los países de América Latina. Hoy en día el avance es tal que cuenta con más de 2.515.000 publicaciones, de más de 163 instituciones de 21 países. Además, gracias al protocolo *Open Archives Initiative's Protocol for Metadata Harvesting (OAI-PMH)* permite operar entre los diferentes servidores y repositorios de los 21 países. [Red de Repositorios Latinoamericanos, 2021](http://repositorioslatinoamericanos.uchile.cl/)
+
+-   *7° Congreso de Bibliotecas Universitarias y Especializadas:* En enero del 2021 SISIB organizó el evento que reunió a más de mil asistentes de más de 20 países durante tres jornadas. Las principales conclusiones del evento indican que [Universidad de Chile, 18 de enero, 2021](https://www.uchile.cl/noticias/172632/ciencia-abierta-fue-eje-en-el-7-congreso-de-bibliotecas) :
+
+    -   La pandemia ha demostrado que el avance instantaneo de los conocimientos ha sido gracias a los datos abiertos, la publicación de prepints y la reducción de tiempos para publicar.
+
+    -   El actual sistema de comunicación científica presenta serios problemas ligados a la sostenibilidad, equidad e inclusión, de modo que las universidades deben tomar un rol protagónico para apoyar la gestión de un cambio en el paradigma científico.
+
+    -   La ciencia abierta se convertirá pronto en el marco conceptual para toda investigación, lo que implica reorientar la labor cinetífica hacia la apertura de todas las fases del proceso investigativo para asegurar transparencia y evitar fraudes.
+
+    -   Patricia Muñoz, Subdirectora de Redes, Estrategia y Conocimiento de ANID enfatizó en la responsabilidad de los y las bibliotecarios/as de fomentar la gestión y depósito de datos abiertos.
+
 ## Referencias
 
-[Departamento de Derechos Intelectuales (Sin fecha). _Tratados internacionales._ Ministerio de las Artes y el Patrimonio Cultural](https://www.propiedadintelectual.gob.cl/623/w3-propertyvalue-40381.html?_noredirect=1)
+[ANID (1 de junio de 2020). Consulta Pública: Política Acceso Abierto a Información Científica](https://www.anid.cl/blog/2020/04/27/consulta-publica-sobre-politica-de-acceso-abierto-a-informacion-cientifica-y-datos-de-investigacion/)
 
-[Férnandez, J. (18 de septiembre de 2009). _Derechos de autor en plataformas e-learning._](https://www.ugr.es/~derechosdeautor/derechos_autor.html)
+[Conicyt (9 de enero de 2017). Chile y Argentina son destacados como ejemplos de políticas de acceso abierto a la información](https://www.conicyt.cl/informacioncientifica/2017/01/09/chile-y-argentina-destacados-como-ejemplos-de-politicas-de-acceso-abierto-a-la-informacion/)
 
-[Fernández, J; Graziosi, E. & Martínez, D. (2018). _Derechos de autor y ciencia abierta: el papel de la biblioteca universitaria._ En VII Conferencia Biredial-ISTEC, Lima - Perú. ](http://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/133163/Juan-Carlos%20Fern%C3%A1ndez-Molina%20-%20Derechos%20de%20autor%20y%20ciencia%20abierta%20el%20papel%20de%20la%20biblioteca%20universitaria.pdf?sequence=6&isAllowed=y)
+[Departamento de Derechos Intelectuales (Sin fecha). *Tratados internacionales.* Ministerio de las Artes y el Patrimonio Cultural](https://www.propiedadintelectual.gob.cl/623/w3-propertyvalue-40381.html?_noredirect=1)
 
-[Loredo, O. (3 de diciembre de 2012). _Derecho comparado: Derecho de Autor y Copyright. Dos Caminos que se encuentran._ ](https://egov.ufsc.br/portal/conteudo/derecho-comparado-derecho-de-autor-y-copyright-dos-caminos-que-se-encuentran)
+[Férnandez, J. (18 de septiembre de 2009). *Derechos de autor en plataformas e-learning.*](https://www.ugr.es/~derechosdeautor/derechos_autor.html)
 
-Restrepo, O. (2014). _Problemas de propiedad Intelectual en el entorno Universitario. Un acercamiento General._ En Estudios de Derecho -Estud. Derecho- Vol. LXXI. N.º 158, Medellín - Colombia.
+[Fernández, J; Graziosi, E. & Martínez, D. (2018). *Derechos de autor y ciencia abierta: el papel de la biblioteca universitaria.* En VII Conferencia Biredial-ISTEC, Lima - Perú.](http://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/133163/Juan-Carlos%20Fern%C3%A1ndez-Molina%20-%20Derechos%20de%20autor%20y%20ciencia%20abierta%20el%20papel%20de%20la%20biblioteca%20universitaria.pdf?sequence=6&isAllowed=y)
 
-[Omatos, A. (4 de octubre de 2013). _Aspectos Legales en la Educación._](http://aomatos.edurioja.org/legalidad/index.html)
+[Loredo, O. (3 de diciembre de 2012). *Derecho comparado: Derecho de Autor y Copyright. Dos Caminos que se encuentran.*](https://egov.ufsc.br/portal/conteudo/derecho-comparado-derecho-de-autor-y-copyright-dos-caminos-que-se-encuentran)
+
+[Red de Repositorios Latinoamericanos (2021). Presentacion](http://repositorioslatinoamericanos.uchile.cl/page/presentacion)
+
+Restrepo, O. (2014). *Problemas de propiedad Intelectual en el entorno Universitario. Un acercamiento General.* En Estudios de Derecho -Estud. Derecho- Vol. LXXI. N.º 158, Medellín - Colombia.
+
+[Universidad de Chile (18 de enero, 2021). Ciencia abierta y comunicación científica fueron ejes en el 7º Congreso de Bibliotecas Universitarias y Especializadas](https://www.uchile.cl/noticias/172632/ciencia-abierta-fue-eje-en-el-7-congreso-de-bibliotecas)
+
+[Omatos, A. (4 de octubre de 2013). *Aspectos Legales en la Educación.*](http://aomatos.edurioja.org/legalidad/index.html)
 
 ## Otros links de interés
 
