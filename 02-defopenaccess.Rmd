@@ -1,10 +1,68 @@
-# Formas open access
+# Formas open access  
 
-- ¿Qué es open access?
-- ¿Qué se publica en open access? (pre-prints, pre-registros)
-- Ejemplo
-- Revistas de acceso abierto (MDA de Gesis, etc). Sería bueno tener algún listado acotado de SOCArvix (buscador Sherpa)
-- ¿Qué pasa si no es de acceso  abierto y quiero abrir igual?
+> Retirar las barreras de acceso a esta literatura acelerará la investigación, enriquecerá la educación, compartirá el aprendizaje de los ricos con los pobres y el de los pobres con el de los ricos, hará esta literatura tan útil como sea posible y sentará los cimientos para unir a la humanidad en una conversación intelectual común y búsqueda del conocimiento. (Budapest Open Access Initiative, 2012)
+
+## ¿Qué es open access?  
+
+**_Open Acces (OA)_** es un movimiento científico cuyo objetivo es promover el libre acceso a la producción científica digital y hacer uso de ella sin restricciones de *copyright.* Los primeros vestigios del **OA** aparecieron a la par con la creación del internet, pero no fue hasta el 2002 con la declaración de Budapest que se definió el concepto de **OA**, posteriormente en 2003 las declaraciones de Bethesda y Berlín sumaron argumentos para el marco de referencia del OA. Las causas que gatillan el desarrollo de OA son principalmente dos: [(Melero, R. y Abad, M. 2008)](https://bid.ub.edu/20meler2.htm)  
+
+1. La constitución del internet y las nuevas tecnologías como el medeio para la divulgación cinetífica.  
+
+2. Los elevados precios de suscripción a revistas cinetíficas digitales se presentaron como barreras económicas y de copyright al acceso de publicaciones cinetíficas.  
+
+## ¿Qué y cómo se publica en open access?   
+
+Cualquier contenido digital puede ser publicado con **Aceso Abierto (OA)**, ya sea académico (pre-print, publicaciones finales, libros, capítulos de libros, bases de datos, softwares, etc.) como artístico-cultural (películas, música, literatura, etc.), sin embargo, esto no se encuentra excento de licencias y se recomienda el uso de CC-By. 
+
+> Esta licencia (CC-BY) permite que otros distribuyan, mezclen, adapten y construyan sobre su trabajo, incluso comercialmente, siempre que le reconozcan la creación original. Esta es la licencia más complaciente que se ofrece. Recomendado para la máxima difusión y uso de materiales con licencia. (Creative Commons, 2017)
+
+Cualquier tipo de producción cinetífica puede ser compartida libremente en plataformas digitales, pero a ello no se le atribuye como una práctica de **Aceso Abierto**. En 2013, UNESCO estableció dos tipos de repositorios, las cuales sirven como rutas formalmente aceptables para compartir publicaciones científicas con el rotulo de **OA** (Swan, A. 2013).  
+
+1. **Repositorios de Vía Verde**: Conssite en un proceso de "auto-archivo o auto-depósito" donde los/as autores/as comparten sus post-print (Artículo final) en sus páginas personales o en revistas que no son gratuitas pero que poseen repositorios de acceso libre. Estos repositorios antes mencionados se adhieren a un conjunto de reglas técnicas de interoperación, por ello forman una red interconectada de bases de datos que pueden ser de tres tipos distintos:  
+
+    + *Conocimientos destallados (específicos):*  Los repositorios de temas específicos se consolidan por medio de dos formas, cuando los/as autores/as transfieren directamente sus trabajos en el repositorio o estos recolectan publicaciones de otras colecciones para centralizarlos.  
+  
+    + *Institucionales:* Corresponde a un repositorio particular de cada universidad o instituto de investigación.  
+  
+    + *De datos:* Son plataformas que se dedican principalmente a la centralización de datos de investigación.
+
+2. **Repositorios de vía Dorada**: corresponden a repositorios de revistas que publican trabajos de investigación en forma permanentemente gratuita para el/la Lector/a. En este sentido, el cobro asociado a la publicación lo costean los/as autores/as o las instituciones a las que se asocian. Por lo general, se especializan mayormente en la publicación sobre temas de salud y georgrafía, siendo de tres tipos:  
+
+    + *Revistas Pagadas:* liberan el acceso de las publicaciones con previo pago del/la autor/a o de la institución que le respalde.
+    
+    + *Revistas Libres:* Refiere a cuando los productos científicos son compartidos en sitios públicos como páginas personales, sitios universitarios u otros. Sin embargo, estos sitios -en su mayoría- carecen de sistemas de etiquetado o bien, no cumplen con los estandares del protocolo OAI-PMH.
+    
+    + *Revistas Híbridas:* Gran parte de las editoriales académicas han introducido esto con el objetivo de ofrecer Acceso Abierto, mientras mantienen sus modelo de negocio habitual basado en suscripciones. Este es el llamado Acceso Abierto “híbrido”, que permite a los autores optar por pagar una cuota de publicación y  tener sus artículos creados con Acceso Abierto en revistas por suscripción
+    
+## Revistas de acceso abierto:
+
+1. diferencias con redes de acceso abierto
+
+2. primer revistas: en 1991 _Surfaces y Psycoloquy_ fueron las revistas pioneras en instalar el acceso gratuito a sus publicaciones.
+
+3. revistas y politicas: (MDA de Gesis, etc). Sería bueno tener algún listado acotado de SOCArvix (buscador Sherpa)  
+
+
+## ¿Qué pasa si no es de acceso  abierto y quiero abrir igual?  
 - **Razones para utilizar open-access** ("el cierre de la triada") 
 - Discusión sobre los  conocimientos comunes
 
+## Referencias  
+
+[Budapest Open Access Initiative (14 de Febrero 2002). Iniciativa de Budapest para el Acceso Abierto. (Trad.) En Budapest, HUngría.](hhttps://www.budapestopenaccessinitiative.org/translations/spanish-translation)
+
+[Creative Commons (7 de Noviembre 2017). Sobre las licencias: Lo que nuestras licencias hacen.](https://creativecommons.org/licenses/?lang=es)
+
+[Melero, R. y Abad, M. (2008). Revistas open access : características, modelos económicos y tendencias. BiD: textos universitaris de biblioteconomia i documentació, núm. 20 (juny)](https://bid.ub.edu/20meler2.htm)  
+
+[Swan, A. (2013). Directrices para Políticas de desarrollo y promoción del Aceso Abierto. UNESCO - ISBN 978-959-18-0928- 5](https://unesdoc.unesco.org/ark:/48223/pf0000222536)
+
+## Otros link de interés
+
+[Peña-López, I. (20 de Junio 2003). Declaración de Bethesda sobre Publicación de Acceso Abierto (Trad.). En Howard Hughes Medical Institute, en Maryland.](https://ictlogy.net/articles/bethesda_es.html)
+
+[Budapest Open Access Initiative (12 de Septiembre 2012). Diez años desde la Budapest Open Access Initiative: hacia lo abierto por defecto (Melero, R. y Babini, D. Trad.).](https://www.budapestopenaccessinitiative.org/boai-10-translations/spanish)  
+
+[Sociedad Max Planck, ed. (2003). La Declaración de Berlín sobre acceso abierto. GeoTrópico, 1 (2), 152-154, versión PDF.](http://www.geotropico.org/1_2_Documentos_Berlin.htm)
+
+[UNESCO (1999). Declaración sobre la ciencia y el uso del saber cinetífico. En Conferencia mundial sobre la ciencia.](http://www.unesco.org/science/wcs/esp/declaracion_s.htm)
