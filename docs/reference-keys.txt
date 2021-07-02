@@ -1,3 +1,4 @@
+fig:fp
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
 tipos-de-licencias
@@ -5,10 +6,9 @@ el-conocimiento-es-poder-pero-de-quién
 formas-open-access
 qué-es-el-open-access
 por-qué-hacer-uso-del-open-access-en-mis-publicaciones
-qué-y-cómo-se-publica-en-open-access
-revistas-de-acceso-abierto
+cómo-se-publica-en-open-access
 researchgate-y-academia.edu-plataformas-de-aceso-abierto
-repositorios-de-revistas-oa
+revistas-de-acceso-abierto
 publica-o-perece-el-dilema-de-las-ciencias-sociales
 herramientas-para-publicar
 repositorios
