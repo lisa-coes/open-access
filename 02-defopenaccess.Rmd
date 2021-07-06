@@ -47,7 +47,55 @@ Estas páginas al ser de tipo auto-archivo corresponden a repositorios de vía v
 
 Con la invención del internet también aumentaron las oportunidades de divulgación científica, y si bien el concepto de **OA** no fue precisado hasta los 2000, en la década anterior ya venían gestandose proyectos como *The public-access computer systems review (1990)*, una revista electrónica tipo boletín que era distribuída por correo electrónico. Posteriormente, en 1991 revistas como *Surfaces y Psycoloquy* fueron pioneras en instalar la metodología de acceso gratuito a sus publicaciones. Hoy en día son muchos los sitios de repositorios que cumplen con políticas de *Aceso Abierto*, pero con licencias particulares que es necesario conocer para adentrarnos en su uso.
 
-(incluir tabla comparativa)
+
+```{r setup, include=FALSE}
+if (!require("pacman")) install.packages("pacman")  #si falta pacman, instalar
+if (!require("tinytex")) install.packages("tinytex")#si falta tinytex, instalar
+pacman::p_load(knitr, kableExtra, dplyr, ggplot2,sjmisc,texreg) # librerias
+knitr::opts_chunk$set(
+	fig.pos = "H",
+	message = FALSE,
+	warning = FALSE,
+	cache = FALSE,
+	out.width = "85%"
+)
+options(scipen=999) # notacion cientifica
+rm(list=ls())       # limpiar workspace
+options(knitr.kable.NA = '') # NA en kable = ''
+table_format = if(is_html_output()) { # Usar en argumento "format=" de kable
+  "html"
+} else if(is_latex_output()) {
+  "latex"
+}
+fwidth = if(is_html_output()) { #Usar en argumento "full_width" de kableExtra
+  T
+} else if(is_latex_output()) {
+  F
+}
+```
+```{r include=FALSE}
+cap1 <- "Tabla comparativa del uso de SocArXiv versus otros sitios"
+```
+```{r tabtax, echo=FALSE}
+tabtax <- read.csv(file = "tabla_1.csv",header = 1,sep = ";",encoding = "UTF-8")
+cnames <- c("Características","ResearchGate, Academia.edu","Sitio web personal","Repositorio Institucional","SocArXiv")
+kable(tabtax,table_format,booktabs = T, linesep = "",col.names = cnames, caption = cap1) %>%
+  kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 14,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1, width = "3 cm", ) %>%
+  column_spec(column = 2,width = "5 cm") %>%
+  column_spec(column = 3,width = "5 cm") %>%
+  column_spec(column = 4,width = "5 cm") %>%
+  column_spec(column = 5,width = "5 cm") %>%
+  collapse_rows(columns = 1:5,valign = "middle")
+```
+\begin{center}
+Fuente: traducción propia a partir de tabla comparativa de SocArXiv
+\end{center}
 
 ## Publica o Perece: El dilema de las ciencias sociales
 
@@ -55,7 +103,7 @@ El quehacer científico de las ciencias sociales es una arena de lucha continua,
 
 Quizás muchos confiaran la solución de la crisis a las instituciones revisoras de las editoriales y revistas, quienes aplican rigurosos métodos de control de calidad. Sin embargo, del papel a la práctica hay un gran trecho. La falta de transparencia en la manipulación de información, los métodos de análisis y la recolección de datos hace imposible corroborar la veracidad total de un trabajo. Actualmente, muchas editoriales han abordado el problema mediante la adopción del Open Access para promover tanto la apertura de datos como de las publicaciones finales, pues con ello da paso a la posibilidad de conciliar la reproducción de los procesos como un mecanismo de control.
 
-A modo de recomendación, no se les obliga a nuestros lectores adquirir de forma inmediata prácticas acordes al Open Access, lo se sugiere es considerarlas sobre todo al momento de realizar el envío de un artículo a una revista cualquiera, pues el autor firma un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor los derechos de autor sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirve únicamente para publicar (LTP) y, por otra parte, los/as autores/as deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013]. Este ejercicio no se encuentra excento de licencias y según [@melero2008] se recomienda el uso de CC-By.
+A modo de recomendación, no se les obliga a nuestros lectores adquirir de forma inmediata prácticas acordes al Open Access, lo que se sugiere es considerarlas sobre todo al momento de realizar el envío de un artículo a una revista cualquiera, pues el autor firma un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor los derechos de autor sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirve únicamente para publicar (LTP) y, por otra parte, los/as autores/as deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013]. Este ejercicio no se encuentra excento de licencias y según [@melero2008] se recomienda el uso de CC-By.
 
 > Esta licencia (CC-BY) permite que otros distribuyan, mezclen, adapten y construyan sobre su trabajo, incluso comercialmente, siempre que le reconozcan la creación original [@creativecommons2017].
 

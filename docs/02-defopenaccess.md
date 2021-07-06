@@ -47,7 +47,82 @@ Estas páginas al ser de tipo auto-archivo corresponden a repositorios de vía v
 
 Con la invención del internet también aumentaron las oportunidades de divulgación científica, y si bien el concepto de **OA** no fue precisado hasta los 2000, en la década anterior ya venían gestandose proyectos como *The public-access computer systems review (1990)*, una revista electrónica tipo boletín que era distribuída por correo electrónico. Posteriormente, en 1991 revistas como *Surfaces y Psycoloquy* fueron pioneras en instalar la metodología de acceso gratuito a sus publicaciones. Hoy en día son muchos los sitios de repositorios que cumplen con políticas de *Aceso Abierto*, pero con licencias particulares que es necesario conocer para adentrarnos en su uso.
 
-(incluir tabla comparativa)
+
+
+
+<table class="table table-striped table-bordered" style="font-size: 14px; margin-left: auto; margin-right: auto;">
+<caption style="font-size: initial !important;">(\#tab:tabtax)Tabla comparativa del uso de SocArXiv versus otros sitios</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Características </th>
+   <th style="text-align:left;"> ResearchGate, Academia.edu </th>
+   <th style="text-align:left;"> Sitio web personal </th>
+   <th style="text-align:left;"> Repositorio Institucional </th>
+   <th style="text-align:left;"> SocArXiv </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Acceso libre para leer </td>
+   <td style="text-align:left;width: 5 cm; "> Requiere registro </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Servicio de acceso publico - sin lucro </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Solo si es alojado por tu universidad </td>
+   <td style="text-align:left;width: 5 cm; "> Solo si es alojado por tu universidad </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Metadatos completos, incluidos coautores, DOI, ORCID, etc. </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Enlace para el repositorio para base de datos, codigo, etc. </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Solo si tu lo construyes </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Url persistente en todas las versiones </td>
+   <td style="text-align:left;width: 5 cm; "> ? </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Entrega DOI para el paper </td>
+   <td style="text-align:left;width: 5 cm; "> ? </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Solo algunos </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Contador de descargas </td>
+   <td style="text-align:left;width: 5 cm; "> Solo algunos </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 3 cm; "> Contribuye al futuro de la comunicación académica abierta </td>
+   <td style="text-align:left;width: 5 cm; "> No </td>
+   <td style="text-align:left;width: 5 cm; "> Débilmente </td>
+   <td style="text-align:left;width: 5 cm; "> Quizás </td>
+   <td style="text-align:left;width: 5 cm; "> Si </td>
+  </tr>
+</tbody>
+</table>
+\begin{center}
+Fuente: traducción propia a partir de tabla comparativa de SocArXiv
+\end{center}
 
 ## Publica o Perece: El dilema de las ciencias sociales
 
@@ -55,7 +130,7 @@ El quehacer científico de las ciencias sociales es una arena de lucha continua,
 
 Quizás muchos confiaran la solución de la crisis a las instituciones revisoras de las editoriales y revistas, quienes aplican rigurosos métodos de control de calidad. Sin embargo, del papel a la práctica hay un gran trecho. La falta de transparencia en la manipulación de información, los métodos de análisis y la recolección de datos hace imposible corroborar la veracidad total de un trabajo. Actualmente, muchas editoriales han abordado el problema mediante la adopción del Open Access para promover tanto la apertura de datos como de las publicaciones finales, pues con ello da paso a la posibilidad de conciliar la reproducción de los procesos como un mecanismo de control.
 
-A modo de recomendación, no se les obliga a nuestros lectores adquirir de forma inmediata prácticas acordes al Open Access, lo se sugiere es considerarlas sobre todo al momento de realizar el envío de un artículo a una revista cualquiera, pues el autor firma un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor los derechos de autor sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirve únicamente para publicar (LTP) y, por otra parte, los/as autores/as deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013]. Este ejercicio no se encuentra excento de licencias y según [@melero2008] se recomienda el uso de CC-By.
+A modo de recomendación, no se les obliga a nuestros lectores adquirir de forma inmediata prácticas acordes al Open Access, lo que se sugiere es considerarlas sobre todo al momento de realizar el envío de un artículo a una revista cualquiera, pues el autor firma un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor los derechos de autor sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirve únicamente para publicar (LTP) y, por otra parte, los/as autores/as deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013]. Este ejercicio no se encuentra excento de licencias y según [@melero2008] se recomienda el uso de CC-By.
 
 > Esta licencia (CC-BY) permite que otros distribuyan, mezclen, adapten y construyan sobre su trabajo, incluso comercialmente, siempre que le reconozcan la creación original [@creativecommons2017].
 
