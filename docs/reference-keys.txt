@@ -1,3 +1,4 @@
+tab:tabtax
 fig:fp
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
@@ -14,4 +15,3 @@ herramientas-para-publicar
 repositorios
 otras-herramientas
 pasos-para-publicar-libre
-tab:tabtax
