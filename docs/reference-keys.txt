@@ -14,3 +14,4 @@ herramientas-para-publicar
 repositorios
 otras-herramientas
 pasos-para-publicar-libre
+tab:tabtax
