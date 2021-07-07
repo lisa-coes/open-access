@@ -51,79 +51,21 @@ Con la invención del internet también aumentaron las oportunidades de divulgac
 
 
 
-<table class="table table-striped table-bordered" style="font-size: 14px; margin-left: auto; margin-right: auto;">
-<caption style="font-size: initial !important;">(\#tab:tabtax)Tabla comparativa del uso de SocArXiv versus otros sitios</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Características </th>
-   <th style="text-align:left;"> ResearchGate, Academia.edu </th>
-   <th style="text-align:left;"> Sitio web personal </th>
-   <th style="text-align:left;"> Repositorio Institucional </th>
-   <th style="text-align:left;"> SocArXiv </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Acceso libre para leer </td>
-   <td style="text-align:left;width: 5 cm; "> Requiere registro </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Servicio de acceso publico - sin lucro </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Solo si es alojado por tu universidad </td>
-   <td style="text-align:left;width: 5 cm; "> Solo si es alojado por tu universidad </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Metadatos completos, incluidos coautores, DOI, ORCID, etc. </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Enlace para el repositorio para base de datos, codigo, etc. </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Solo si tu lo construyes </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Url persistente en todas las versiones </td>
-   <td style="text-align:left;width: 5 cm; "> ? </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Entrega DOI para el paper </td>
-   <td style="text-align:left;width: 5 cm; "> ? </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Solo algunos </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Contador de descargas </td>
-   <td style="text-align:left;width: 5 cm; "> Solo algunos </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 3 cm; "> Contribuye al futuro de la comunicación académica abierta </td>
-   <td style="text-align:left;width: 5 cm; "> No </td>
-   <td style="text-align:left;width: 5 cm; "> Débilmente </td>
-   <td style="text-align:left;width: 5 cm; "> Quizás </td>
-   <td style="text-align:left;width: 5 cm; "> Si </td>
-  </tr>
-</tbody>
-</table>
-\begin{center}
+
+
+Table: (\#tab:tabtax)Tabla comparativa del uso de SocArXiv versus otros sitios
+
+|Características                                             |ResearchGate, Academia.edu |Sitio web personal                    |Repositorio Institucional             |SocArXiv |
+|:-----------------------------------------------------------|:--------------------------|:-------------------------------------|:-------------------------------------|:--------|
+|Acceso libre para leer                                      |Requiere registro          |Si                                    |Si                                    |Si       |
+|Servicio de acceso publico - sin lucro                      |No                         |Solo si es alojado por tu universidad |Solo si es alojado por tu universidad |Si       |
+|Metadatos completos, incluidos coautores, DOI, ORCID, etc.  |Quizás                     |No                                    |Quizás                                |Si       |
+|Enlace para el repositorio para base de datos, codigo, etc. |No                         |Solo si tu lo construyes              |Quizás                                |Si       |
+|Url persistente en todas las versiones                      |?                          |No                                    |No                                    |Si       |
+|Entrega DOI para el paper                                   |?                          |No                                    |Solo algunos                          |Si       |
+|Contador de descargas                                       |Solo algunos               |Quizás                                |Quizás                                |Si       |
+|Contribuye al futuro de la comunicación académica abierta   |No                         |Débilmente                            |Quizás                                |Si       |
 Fuente: traducción propia a partir de tabla comparativa de SocArXiv
-\end{center}
 
 ## Publica o Perece: El dilema de las ciencias sociales
 
