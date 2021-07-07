@@ -1,3 +1,4 @@
+tab:tabtax
 fig:fp
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
