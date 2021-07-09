@@ -1,32 +1,49 @@
 # Herramientas para publicar
 
-Si has llegado hasta este punto, posiblemente la alternativa del Open Access te ha cautivado, pero debes considerar que la apertura de una publicación académica no es un proceso sencillo ni libre de pagos, por ello en este capítulo abordaremos un camino en conjunto que te proporcionará un marco de referencia para publicar tu pre-print aún cuando desees enviarlo a una revista para su publicación definitiva. 
+**Imagine que usted es//Imagina que eres** parte de un equipo de investigación que finalizo un riguroso estudio sobre las repercusiones socio-económicas que tuvo la pandemia de Covid-19 en el país, desarrollando un aporte significativo para la toma de decisiones en materias de políticas públicas y levantando las bases para nuevas líneas de investigación. Dentro del equipo, ha surgido la discusión en torno a la neccesidad de publicar los resultados de forma inmediata dadas las virtudes del conocimiento generado y su aporte para la toma de decisiones. De este modo, para lograr su objetivo mediático, una opción que se vislumbra es enviar el proyecto a alguna editorial de renombre, cuestión que implica un proceso adicional que posiblemente se extienda a uno o dos años, sin mencionar la posibilidad de reajuste que en caso de ser aceptado el proyecto. Entonces la pregunta que surge aquí es ¿Se puede realizar una pre-publicación del material académico? ¿Qué tipos de implicancias podría tener al realizar una pre-publicación? ¿Es el Open Access la solución? ¿Qué tengo que saber para publicar en Open Access? 
 
-## Repositorios
+Si has llegado hasta este punto con estas preguntas, posiblemente la alternativa del Open Access te ha cautivado, pero debes considerar que la apertura de una publicación académica no es un proceso sencillo ni libre de pagos, por ello en este capítulo abordaremos un camino en conjunto que te proporcionará un marco de referencia para empezar a adoptar prácticas ligadas al Open Access. 
 
-**Imagine que usted es//Imagina que eres** parte de un equipo de investigación que finalizo un riguroso estudio sobre las repercusiones socio-económicas que tuvo la pandemia de Covid-19 en el país, desarrollando de este modo un aporte significativo para la toma de decisiones en materias de políticas públicas y levantando las bases para nuevas líneas de investigación. Dentro del equipo, ha surgido la discusión en torno a la neccesidad de publicar los resultados de forma inmediata dadas las virtudes del conocimiento generado y su aporte para la toma de decisiones. De este modo, para lograr su objetivo mediático, una opción que se vislumbra es enviar el proyecto a alguna editorial de renombre, cuestión que implica un proceso adicional que posiblemente se extienda a uno o dos años, sin mencionar la posibilidad de reajuste que en caso de ser aceptado el proyecto. Entonces la pregunta que surge aquí es ¿Se puede realizar una pre-publicación del material académico? ¿Qué tipos de implicancias podría tener al realizar una pre-publicación? ¿Es el Open Access la solución? ¿Qué tengo que saber para publicar en Open Access? 
+## Servicios de pre-print
 
-Para responder a estas y otras preguntas, partiremos puntualizando un concepto que hemos ido abordando a lo largo de estos tres capítulos. Un **pre-print (pre-publicación)** es un reporte de investigación o bien, el mismo artículo que enviamos al proceso de revisión por pares. Este artículo tiene la posibilidad de ser publicado en un servidor denominado **pre-print server** con el objetivo de abrir su disponibilidad inmediata al mismo tiempo en el que se difunde la investigación. La gran particularidad de este método de pre-publicación es que se obtiene un DOI, por lo que se convierte de manera inmediata en un documento referenciable y sin posibilidad de plagio. Algunas personas tendrán el temor de que al pre-publicar un informe de investigación, las posibilidades de que el documento sea aceptado y posteriormente publicado en una revista es menor, ya que estas aceptan solo documentos inéditos. Los datos empíricos demuestran que en la realidad, esto no es un impedimento para su posterior publicación.
+Para comenzar, en necesario puntualizar un concepto que hemos ido abordando a lo largo de estos tres capítulos. Un **pre-print (pre-publicación)** es un reporte de investigación o bien, el mismo artículo que enviamos al proceso de revisión por pares. Este artículo tiene la posibilidad de ser publicado en un servidor denominado **pre-print server** con el objetivo de abrir su disponibilidad inmediata al mismo tiempo en el que se difunde la investigación. La gran particularidad de este método de pre-publicación es que se obtiene un DOI **(digital object identifier//identificador de objeto digital)**, por lo que se convierte de manera inmediata en un documento referenciable y sin posibilidad de plagio. Algunas personas tendrán el temor de que al pre-publicar un informe de investigación, las posibilidades de que el documento sea aceptado y posteriormente publicado en una revista es menor, ya que estas aceptan solo documentos inéditos. Los datos empíricos demuestran que en la realidad, esto no es un impedimento para su posterior publicación.
 
-```{r fp, echo=FALSE, fig.cap="XXXXX", fig.align = 'center', out.width = '100%'}
+```{r, echo=FALSE, fig.cap="XXXXX", fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(path = "https://www.natureindex.com/news-blog/image/5c47a21e4ccf11d6447378c9/rsz_biorxiv2.png")
 ```
+Para el caso de las ciencias sociales, el servicio de pre-print que recomendamos utilizar es [SocArxiv](https://socopen.org/) y [PsyArxiv](https://psyarxiv.com/) particularmente para la disciplina de la psicología. Estos servicios permiten subir archivos PDF desde la plataforma [OSF](https://help.osf.io/hc/en-us/categories/360001530554-Preprints) y de este modo se obtiene el beneficio de acceder a un DOI que asegure su correcta citación. 
 
-Pueden ser una versión inicial/borrador o una versión final
+## Revistas opcionales para publicar con Open Access
+busqueda mediante sherpaRomeo
 
-Concepto general: ciencia en tiempo real
+recomendacion: publicar en revistas asociadas a SocArxiv (incluir imagen o lista)
+
+## Pagos asociados a la publicación abierta
 
 
+## Recomendaciones finales
 
+A modo de recomendación, no se les obliga a nuestros lectores adquirir de forma inmediata prácticas acordes al Open Access, lo que se sugiere es considerarlas sobre todo al momento de realizar el envío de un artículo a una revista cualquiera, pues el autor firma un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor los derechos de autor sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirve únicamente para publicar (LTP) y, por otra parte, los/as autores/as deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013]. Este ejercicio no se encuentra excento de licencias y según [@melero2008] se recomienda el uso de CC-By.
 
+> La licencia CC-BY permite que otros distribuyan, mezclen, adapten y construyan sobre su trabajo, incluso comercialmente, siempre que le reconozcan la creación original. Para mayor información, haz [Click Aquí](https://creativecommons.org/).
 
+```{r, echo=FALSE, fig.cap="Tips para conservar los derechos de autor. Imagen de Biblioteca CRAI - Universidad Pablo de Olavide", fig.align = 'center', out.width = '100%'}
+knitr::include_graphics(path = "https://www.um.es/documents/793464/2998280/INFOS3w.jpg/f0c81c67-3602-4e56-a5c3-33fb05a637dc?t=1444293679468")
+```
+
+##ESTRUCTURA
+1.  ejemplo - situación hipotética para dar inicio  
+2.  publicación de pre-print  
+3.  revistas: como buscar y elegir una revista que integre politicas de OA  
+    - Socopen y romeo  
+4.  pagos asociados APC//BCF  
+X.  publicaciones no clasicas (blogs, post libres, paginas web) - REPLANTEAR  
+5.  recomendaciones sobre licencias y politicas sobre derechos de autor  
 
 
 - Opciones para publicar con open-access
   - Opciones para publicar con acceso abierto
   - Internacionales (ejemplo): Directory of Open Access Journals (DOAJ), Gates Open research, SOCArvix
   - Institucionales: El Uchile
-
-## Otras herramientas
-
   - Herramientas de *rOpensci*, blogdown
+

@@ -39,6 +39,10 @@ Muchos se preguntaran _¿Qué tipo de documentos puedo publicar en acceso abiert
 
 5.  **Repositorios de Ruta Bronce**: Según [@piwowar2019] esta es una nueva categoría donde los editores alojan artículos embargados en sitios web de su preferencia, de modo que los trabajos carecen de licencias que permitan su uso autorizado. 
 
+```{r fp, echo=FALSE, fig.cap="RE-HACER GRÁFICO O IMPLEMENARLO A MODO DE TABLA: POR DISCUTIR", fig.align = 'center', out.width = '100%'}
+knitr::include_graphics(path = "https://www.biorxiv.org/content/biorxiv/early/2019/10/09/795310/F1.large.jpg")
+```
+
 ### ResearchGate y Academia.edu: ¿Plataformas de aceso abierto?
 
 De seguro conoces las plataformas de *ResearchGate y Academia.edu* o quizás en alguna ocasión haz recurrido a estas páginas para compartir tus publicaciones o descargar archivos científicos para uso personal. Sin embargo, hay que mencionar que estas plataformas no son un ejemplo de *Open Acess* debido a que funcionan como redes sociales similares a *Facebook o LinkedIn*, pues su objetivo es crear redes de contactos entre colegas e investigadores con intereses afines, quienes comparten copias de sus productos científicos. Según [@fortney12], *ResearchGate y Academia.edu* al ser empresas con fines de lucro no cumplen con la carcaterística principal que comparten los repositorios de *Aceso Abierto*, pues estos son administrados por universidades, agencias gubernamentales, asociaciones internacionales u cualquier otro organismo sin fines de lucro, cuyo objetivo se centra en poner los conocimietos al servicio público.
