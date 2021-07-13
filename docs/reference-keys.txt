@@ -1,5 +1,7 @@
-tab:tabtax
+fig:unnamed-chunk-1
 fig:fp
+tab:tabtax
+fig:unnamed-chunk-2
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
 tipos-de-licencias
@@ -10,8 +12,9 @@ por-qué-hacer-uso-del-open-access-en-mis-publicaciones
 cómo-se-publica-en-open-access
 researchgate-y-academia.edu-plataformas-de-aceso-abierto
 revistas-de-acceso-abierto
-publica-o-perece-el-dilema-de-las-ciencias-sociales
 herramientas-para-publicar
-repositorios
-otras-herramientas
+flujo-de-publicación
+revistas-opcionales-para-publicar-con-open-access
+pagos-asociados-a-la-publicación-abierta
+recomendaciones-finales
 pasos-para-publicar-libre
