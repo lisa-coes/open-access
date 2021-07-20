@@ -2,7 +2,7 @@
 title: "Open Access"
 subtitle: "<center>Documento de trabajo</center>"
 author: "Investigador a cargo: Juan Carlos Castillo <br> Asistente de investigación: Valentina Andrade <br> Pasante: Vanessa Leyton"
-date: "13 julio 2021"
+date: "20 julio 2021"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
