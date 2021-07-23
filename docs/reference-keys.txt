@@ -17,3 +17,4 @@ el-camino-hacia-la-publicación
 revistas-para-publicar-con-open-access
 recomendaciones-finales
 pasos-para-publicar-libre
+pagos-asociados-a-la-publicación-abierta
