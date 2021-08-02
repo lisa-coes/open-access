@@ -39,7 +39,7 @@ Muchos se preguntaran _¿Qué tipo de documentos puedo publicar en acceso abiert
 
 5.  **Repositorios de Ruta Bronce**: Según [@piwowar2019] esta es una nueva categoría donde los editores alojan artículos embargados en sitios web de su preferencia, de modo que los trabajos carecen de licencias que permitan su uso autorizado. 
 
-```{r fp, echo=FALSE, fig.cap="RE-HACER GRÁFICO O IMPLEMENARLO A MODO DE TABLA: POR DISCUTIR", fig.align = 'center', out.width = '100%'}
+```{r fp, echo=FALSE, fig.cap="Piwowar, H. et al.(2019). The Future of OA: A large-scale analysis projecting Open Access publication and readership. bioRxiv 795310; doi: https://doi.org/10.1101/795310", fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(path = "https://www.biorxiv.org/content/biorxiv/early/2019/10/09/795310/F1.large.jpg")
 ```
 

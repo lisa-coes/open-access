@@ -4,7 +4,7 @@
 
 > La propiedad intelectual nos habla de facultades exclusivas que posee el autor sobre su obra y que le permiten gozar de su uso y explotación [@loredo2006].
 
-La **Propiedad Intelectual (PI)** hace referencia a toda creación de la mente humana [@WIPO2020], su objetivo es fomentar la creación e innovación, al mismo tiempo en el que regula el uso y difusión de las obras creadas. La PI es un tipo de ley cuya rigurosidad varia según el país, sin embargo esta legislación que funciona en base a normativas jurídicas (**licencias**) tiene dos grandes ascepciones:
+La **Propiedad Intelectual (PI)** hace referencia a toda creación de la mente humana [@WIPO2020], su objetivo es fomentar la creación e innovación, al mismo tiempo en el que regula el uso y difusión de las obras creadas. La PI es un tipo de ley cuya rigurosidad varia según el país, sin embargo, esta legislación que funciona en base a normativas jurídicas (**licencias**) tiene dos grandes ascepciones:
 
 1.  **(Common Law)**: normativa que rige en *Estados Unidos e Inglaterra* y que regula la reproducción (copia) de la obra, su distribución, su exhibición pública y su transformación ya sea traducida o adaptada [@fernández2009a]. Tienen la particularidad de que pueden ser transferidos ya sea por voluntad propia o por prescripción, siendo así ampliados los derechos bajo distintos tipos de licencias de *Copyrigth, Creative Commons, Copyleft y Dominio Público* [@omatos2013]
 
@@ -19,21 +19,17 @@ La **Propiedad Intelectual (PI)** hace referencia a toda creación de la mente h
 
 Las licencias sobre la propiedad intelectual regulan los derechos patrimoniales de la obra, de modo que establecen las **reglas** para su uso. Las **licencias** más conocidas son:
 
-1.  **Copyright:** *"Todos los derechos reservados".* La utilización de la obra solo puede ser bajo permiso del autor.
+1.  **Copyright:** Esta licencia permite que el autor se reserve todos los derechos sobre la obra y solo se puede hacer uso de ella bajo permiso del mismo.
 
-2.  **Creative Commons:** *"Algunos derechos reservados".* Esta licencia se inspira en la GPL (*General Public License*) que es una **licencia que permite el uso de software y códigos de libre acceso**. Su propósito es ahondar en herramientas digitales que faciliten la **distribución de la obra** por medio de la **autorización reglamentada** dictada por el autor, quién indica el modo de uso, difusión y citación por medio de la adopción (o no) de las siguientes características:
+2.  **Creative Commons:** Esta licencia inspirada en la GPL (*General Public License*) -una **licencia que permite el uso de software y códigos de libre acceso**- tiene el propósito de desarrollar herramientas digitales estandarizadas que faciliten la **distribución de la obra**, pues entrega al autor, empresa o institución la responsabilidad de **autorizar reglamentadamente** el modo de uso, difusión y citación de su obra. Las licencias CC funcionan por medio de tres capas en donde cada una entrega una especificidad de como utilizar la obra. Para mayor información, haz [Click Aquí](https://creativecommons.org/).
 
-    -   **Reconocimiento**: condición obligatoria, todo trabajo que haga uso de una obra debe reconocerla.
-
-    -   **Uso No Comercial**: El uso de la obra y divulgación de la obra no puede sostenerse en fines comerciales.
-
-    -   **Sin obra Derivada**: permite la copia y distribución de la obra pero sin la posibilidad de crear un derivado de esta.
-
-    -   **Compartir igual**: se permiten crear trabajos a partir de la obra original bajo la condición de que mantengan las mismas licencias.
+![](licencias.jpg)
 
 3.  **Copyleft:** Este tipo de licencia proviene del movimiento [*Open Access*](https://open-access.net/en/information-on-open-access/history-of-the-open-access-movement) y se orienta a abrir el uso, aplicación, distribución y creación de obras. Además de permitir el uso libre, indica la obligación de que todo proyecto que nazca a partir del original contenga los principios del acceso abierto.
 
-4.  **Dominio Público:** si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.
+4.  **Dominio Público:** Si bien no corresponde a una licencia como tal, es un estado en el que la obra no posee protección patrimonial pues ha prescrito el plazo de su protección.
+
+Al momento de realizar el envío de un artículo a una revista cualquiera, puede ocurrir que el autor tenga que firmar un *Acuerdo de Transferencia de Derechos (CTA)*, transfiriendole al editor todo derecho sobre la obra y por lo tanto, imposibilitando toda acción del propio creador sobre la investigación. Para que la decisión de publicar dentro de una revista no afecte a la posterior decisión de abrir la publicación, por una parte los editores deben tener una licencia que sirva únicamente para publicar y, por otra parte, los autores deben retener para si los derechos sobre la obra. En síntesis, para que cualquier recurso científico sea abierto, este debe contener una licencia que explicite a sus usuarios las acciones que pueden realizar sobre la obra e indicar la correcta acreditación de la fuente [@swan2013].
 
 ## El conocimiento es poder pero ¿De quién?
 
@@ -47,7 +43,7 @@ Por un lado, la [**Agencia Nacional de Investigación y Desarrollo (ANID)**](htt
 
 Por otro lado, la [Universidad de Chile](http://repositorio.uchile.cl/) es la institución de educación superior pionera en desarrollar un repositorio institucional abierto. Este recoge documentos digitales e impresos con previa autoización, tales como tesis de pregrado y postgrado, pre y post-print, libros y capítulos, material didáctico y presentaciones, informes técnicos, recursos audiovisuales e imágenes. El **Repositorio Académico de la Universidad de Chile** conserva, difunde y proporciona acceso a material científico generado por docentes e investigadores de la institución que actualmente cuenta con más de 68.000 publicaciones. Dentro de sus políticas, cabe destacar dos grandes rasgos que le caracterizan, siendo la primera el uso del protocolo de interoperabilidad que permite que el repositorio se conecte con otros, pues su propósito es incrementar la visibilidad de los documentos. El segundo rasgo visionario del repositorio académico es que entrega la autonomía a los autores de decidir sobre la propiedad intelectual de sus proyectos, de modo que se les solicita el uso de licencias Creative-Commons escogidas por el propio autor. Lo importante de esta política es que además de favorecer la visibilidad del trabajo, se asegura la identificación y reconocimiento de la autoría.
 
-Ambos ejemplos de políticas institucionales proveen una exitosa colaboración entre el mundo científico y el público general, ya que orientan la toma de decisiones al finalizar el ejercicio investigativo y permiten la apertura del conocimiento, por esto es muy importante que los organismos universitarios y de investigación pública en latinoamerica desarrollen políticas de propiedad intelectual para 
+Ambos ejemplos de políticas institucionales proveen una exitosa colaboración entre el mundo científico y el público general, ya que orientan la toma de decisiones al finalizar el ejercicio investigativo y permiten la apertura del conocimiento, por esto es muy importante que los organismos universitarios y de investigación pública en latinoamerica desarrollen políticas de propiedad intelectual.
 
 ```{r, echo=FALSE, fig.cap="Beneficios del Open Access. Por Danny Kingsley y Sarah Brown", fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(path = "https://blogs.uw.edu/uwbsc/files/2014/10/BenefitsofOA_KingsleyBrown.png")
