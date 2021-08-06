@@ -1,7 +1,6 @@
 fig:unnamed-chunk-1
 fig:fp
 tab:tabtax
-fig:unnamed-chunk-2
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
 tipos-de-licencias
@@ -16,5 +15,4 @@ herramientas-para-publicar
 el-camino-hacia-la-publicación
 revistas-para-publicar-con-open-access
 pagos-asociados-a-la-publicación-abierta
-recomendaciones-finales
-pasos-para-publicar-libre
+cuál-es-el-destino-de-las-ciencias-sociales-en-el-mundo-del-open-access

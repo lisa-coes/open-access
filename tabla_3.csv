@@ -1,0 +1,5 @@
+﻿Color;Especificación;
+Verde;Permite autoarchivar el pre-print, post-print y la versión final;
+Amarillo ;Permite unicamente el autoarchivo del pre-print;
+Azul;Permite unicamente el autoarchivo del post-print o la versión final;
+Blanco;No permite el autoarchivo de ninguno de los documentos antes mencionados;
