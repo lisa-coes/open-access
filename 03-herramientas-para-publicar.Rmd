@@ -42,7 +42,7 @@ El mundo del Open Access es bastante grande y en ocasiones costoso, toda revista
 
 ## Pagos asociados a la publicación abierta
 
-El Open Access está redefiniendo la forma en que el capital científico se define, se moviliza y se trata, un nuevo paradigma que choca con las reglas de un mercado académico que por décadas ha mantenido el monopolio económico del conocimiento científico por medio de barreras de pago, un modelo que no siempre es receptivo a alteraciones y novedades [@sádaba2014] pero que ha tenido la obligación de adaptarse al nuevo panorama cibernético digital.
+El Open Access está redefiniendo la forma en que el capital científico se define, se moviliza y se trata, un nuevo paradigma que choca con las reglas de un mercado académico que por décadas ha mantenido el monopolio económico del conocimiento científico por medio de barreras de pago, un modelo que no siempre es receptivo a alteraciones y novedades [@sadaba_acceso_2014] pero que ha tenido la obligación de adaptarse al nuevo panorama cibernético digital.
 
 El modelo de suscripción se presenta como un muro de pago que al ser costeado permite acceder al material científico. Detrás de cada ejemplar físico existe un costo de adaptación, impresión y envío, lo que obligaba a las editoriales a publicar una cantidad determinada. Sin embargo, con el advenimiento del internet, la digitalización y la inmediatez de la información, las razones y argumentos que daban sustento al modelo se volvieron obsoletas. La era digital permitió avanzar a pasos agigantados en el desarrollo de nuevos conocimientos, en la difusión masiva e instantánea de los trabajos académicos y por consecuencia, abrió paso al cuestionamiento de las suscripciones pagadas como método de acceso al conocimiento.
 
