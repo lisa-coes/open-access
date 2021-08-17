@@ -8,7 +8,7 @@ Si has llegado hasta este punto con estas preguntas, posiblemente la alternativa
 
 Todo proyecto de investigación tiene la potencialidad de ser publicado pero sabemos que esto es un proceso que lleva tiempo y algunas veces una gran espera, pero ¿Qué ocurre con aquellos trabajos que analizan una coyuntura contingente? ¿Qué ocurre con aquellas investigaciones que estiman los efectos de una crisis económica buscando servir para la toma de decisiones en materia de políticas públicas? ¿Cómo hacemos para que los conocimientos sirvan y tengan sentido en el presente? Para publicar en abierto debemos seguir un flujo que se divide en etapas, este inicia con el pre-print, siguiendo con el post-print y finaliza con la publicación final.
 
-```{r, echo=FALSE, fig.cap="Guía para publicar libre (Elaboración propia).", fig.align = 'center', out.width = '100%'}
+```{r, echo=FALSE, fig.cap="Guía paso a paso para publicar libre (Elaboración propia).", fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(path = "docs/images/flujo_lisa.png")
 ```
 
@@ -16,7 +16,7 @@ knitr::include_graphics(path = "docs/images/flujo_lisa.png")
 
 La gran particularidad de este método de pre-publicación es que se obtiene un DOI **(Identificador de Objeto Digital)**, por lo que se convierte de manera inmediata en un **documento referenciable y sin posibilidad de plagio**. Algunas personas tendrán el temor de que al pre-publicar un informe de investigación, las posibilidades de que el documento sea aceptado y posteriormente publicado en una revista es menor. Sin embargo, los datos empíricos demuestran que en la realidad, esto no es un impedimento para su posterior publicación.
 
-```{r, echo=FALSE, fig.cap=" R. J. Abdill & R. Blekhman (2019). Preprint en bioRxiv https://doi.org/10.1101/515643 (Traducción propia)", fig.align = 'center', out.width = '75%'}
+```{r, echo=FALSE, fig.cap=" R. J. Abdill & R. Blekhman (2019). Destino final de los Preprint (Traducción propia).", fig.align = 'center', out.width = '75%'}
 knitr::include_graphics(path = "docs/images/nature_preprints.png")
 ```
 
@@ -34,21 +34,11 @@ Al momento de realizar el envío de un artículo a una revista cualquiera, puede
 
 Por lo general, cuando llevamos tiempo investigando y publicando tenemos ciertas nociones de las revistas a las que les puede interesar los temas que estamos trabajando o incluso tenemos ciertas certezas de las posibles revistas en las cuales nuestro proyecto tiene mayores chances de ser publicado. El paso lógico para la publicación es elegir aquella editorial donde queremos que aparezca nuestro trabajo, ya sea por reconocimiento, por recomendaciones, por el tema que trabajamos o por cualquier otro motivo que tengamos. Por ello una pregunta que surge aquí es **¿Cómo puedo saber si la revista que escogí posee políticas de acceso abierto y me permite autoarchivar mi publicación en otros repositorios?** Muchas veces es difícil encontrar las políticas de autoarchivo que poseen las revistas, por ello recomendamos acceder a [**Sherpa Romeo**](https://v2.sherpa.ac.uk/romeo/){target="_blank"} y buscar la revista escogida. *Sherpa Romeo* es un sitio web que funciona como una base de datos que recopila la información básica sobre las políticas de autoría y acceso abierto de las principales revistas científicas de todo el mundo que utiliza un código de cuatro colores para diferenciar los tipos de políticas de cada revista, los que se definen en:
 
-```{r, echo=FALSE, fig.cap="Piwowar, H. et al.(2019). El futuro de OA: un análisis a gran escala que proyecta la publicación y los lectores de acceso abierto. bioRxiv 795310; doi: https://doi.org/10.1101/795310 (Traducción propia)", fig.align = 'center', out.width = '75%'}
+```{r, echo=FALSE, fig.cap="Etiquetas de colores de Sherma Romeo según tipo de acceso abierto (Elaborción propia).", fig.align = 'center', out.width = '75%'}
 knitr::include_graphics(path = "docs/images/colores_sherpa.png")
 ```
 
-El mundo del Open Access es bastante grande y en ocasiones costoso, toda revista de ruta dorada posee costos de APC que deben ser financiados por los investigadores o sus patrocinantes, lo que se vuelve una barrera económica para los equipos de investigación que deseen abrir sus publicaciones, por ello el proceso de autoarchivo surge como una alternativa al alcance de cualquiera y en su mayoría, cientistas sociales utilizan la vía verde y la diamante para depositar sus manuscritos o tesis en repositorios como [Dialnet](https://soporte.dialnet.unirioja.es/portal/es/kb/articles/el-acceso-abierto-a-la-literatura-cient%C3%ADfica){target="_blank"}, [Latindex](https://www.latindex.org/latindex/descripcion){target="_blank"}, [Scielo](https://scielo.org/es/sobre-el-scielo/declaracion-de-accesso-abierto/){target="_blank"}, [Redalyc](https://www.redalyc.org/){target="_blank"} y [CLACSO](http://biblioteca.clacso.edu.ar/accesoabierto/){target="_blank"}.
-
-## Pagos asociados a la publicación abierta
-
-El Open Access está redefiniendo la forma en que el capital científico se define, se moviliza y se trata, un nuevo paradigma que choca con las reglas de un mercado académico que por décadas ha mantenido el monopolio económico del conocimiento científico por medio de barreras de pago, un modelo que no siempre es receptivo a alteraciones y novedades [@sadaba_acceso_2014] pero que ha tenido la obligación de adaptarse al nuevo panorama cibernético digital.
-
-El modelo de suscripción se presenta como un muro de pago que al ser costeado permite acceder al material científico. Detrás de cada ejemplar físico existe un costo de adaptación, impresión y envío, lo que obligaba a las editoriales a publicar una cantidad determinada. Sin embargo, con el advenimiento del internet, la digitalización y la inmediatez de la información, las razones y argumentos que daban sustento al modelo se volvieron obsoletas. La era digital permitió avanzar a pasos agigantados en el desarrollo de nuevos conocimientos, en la difusión masiva e instantánea de los trabajos académicos y por consecuencia, abrió paso al cuestionamiento de las suscripciones pagadas como método de acceso al conocimiento.
-
-> La Internet ha cambiado fundamentalmente las realidades prácticas y económicas relacionadas con la distribución del conocimiento científico y el patrimonio cultural [@bethesda_declaracion_2003]
-
-En la nueva era digital, el modelo de suscripción sigue estando presente, pero convive con el paradigma del open access, el que intenta superar las barreras de pago poniendo la responsabilidad de la apertura del conocimiento en el propio autor. Algunos repositorios de ruta dorada e híbrida solicitan un pago de APC para publicar en acceso abierto, esto corresponde a un modelo de negocios cuyo fin es financiar los gastos asociados la gestión de la publicación. En estricto rigor, no existe un monto estandarizado del APC, por lo que su costo dependerá únicamente de la revista y que fluctúa según el pago de impuestos adicionales. Según [@socha_cuanto_2018], de las revistas de mayor renombre en la industria académica como [Elsevier](https://www.elsevier.com/open-science){target="_blank"}, [Springer](https://www.springer.com/la/open-access){target="_blank"}, [Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html){target="_blank"} y [Taylor & Francis](https://authorservices.taylorandfrancis.com/publishing-open-access/){target="_blank"} se han adscrito al acceso abierto cobrando a los autores un costo de APC pero manteniendo su modelo de suscripción.
+El mundo del Open Access es bastante grande y en ocasiones costoso, toda revista de ruta dorada posee costos de APC que deben ser financiados por los investigadores o sus patrocinantes, lo que se vuelve una barrera económica para los equipos de investigación que deseen abrir sus publicaciones, por ello el proceso de autoarchivo surge como una alternativa al alcance de cualquiera y en su mayoría, cientistas sociales utilizan la vía verde y la diamante para depositar sus manuscritos o tesis en repositorios como [Dialnet](https://soporte.dialnet.unirioja.es/portal/es/kb/articles/el-acceso-abierto-a-la-literatura-cient%C3%ADfica){target="_blank"}, [Latindex](https://www.latindex.org/latindex/descripcion){target="_blank"}, [Scielo](https://scielo.org/es/sobre-el-scielo/declaracion-de-accesso-abierto/){target="_blank"}, [Redalyc](https://www.redalyc.org/){target="_blank"} y [CLACSO](http://biblioteca.clacso.edu.ar/accesoabierto/){target="_blank"}. Adicionalmente, existen revistas de ciencias sociales cuyo foco se encuentra en el diseño de metodologías de investigación cualitativa y que además, poseen un alto factor de impacto, pues son indexadas a Scopus [@ulloa_tendencias_2017]. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(comment=NA, prompt=FALSE, cache=FALSE, echo=TRUE, results='asis', message = F, warning = F)
@@ -64,10 +54,42 @@ options(knitr.kable.NA = 'No sabe/No responde', kableExtra.auto_format = FALSE)
 pacman::p_load(knitr, kableExtra) # librerias
 #devtools::install_github(repo="haozhu233/kableExtra", ref="a6af5c0") 
 
+tab_3 <- read.csv(file = "tabla_3.csv",header = 1,sep = ";",encoding = "UTF-8")
+```
+
+```{r tab_3, echo=FALSE}
+knitr::kable(tab_3, col.names = c("Revista","País","Área Temática","Asunto Categoría","Link"), caption = "Descripción de Revistas") %>%
+  kableExtra::kable_styling(
+    full_width = T,
+    latex_options = c("hold_position"),
+    position = "center",
+    font_size = 14,
+    bootstrap_options=c("striped", "bordered")) %>%
+  column_spec(column = 1, width = "3 cm", ) %>%
+  column_spec(column = 2:5,width = "5 cm") %>%
+  kableExtra::collapse_rows(columns = 1:5,valign = "middle")
+```
+
+Fuente: Adaptación propia a partir de tabla [@ulloa_tendencias_2017]
+
+## Pagos asociados a la publicación abierta
+
+El Open Access está redefiniendo la forma en que el capital científico se define, se moviliza y se trata, un nuevo paradigma que choca con las reglas de un mercado académico que por décadas ha mantenido el monopolio económico del conocimiento científico por medio de barreras de pago, un modelo que no siempre es receptivo a alteraciones y novedades [@sadaba_acceso_2014] pero que ha tenido la obligación de adaptarse al nuevo panorama cibernético digital.
+
+El modelo de suscripción se presenta como un muro de pago que al ser costeado permite acceder al material científico. Detrás de cada ejemplar físico existe un costo de adaptación, impresión y envío, lo que obligaba a las editoriales a publicar una cantidad determinada. Sin embargo, con el advenimiento del internet, la digitalización y la inmediatez de la información, las razones y argumentos que daban sustento al modelo se volvieron obsoletas. La era digital permitió avanzar a pasos agigantados en el desarrollo de nuevos conocimientos, en la difusión masiva e instantánea de los trabajos académicos y por consecuencia, abrió paso al cuestionamiento de las suscripciones pagadas como método de acceso al conocimiento.
+
+> La Internet ha cambiado fundamentalmente las realidades prácticas y económicas relacionadas con la distribución del conocimiento científico y el patrimonio cultural [@bethesda_declaracion_2003]
+
+En la nueva era digital, el modelo de suscripción sigue estando presente, pero convive con el paradigma del open access, el que intenta superar las barreras de pago poniendo la responsabilidad de la apertura del conocimiento en el propio autor. Algunos repositorios de ruta dorada e híbrida solicitan un pago de APC para publicar en acceso abierto, esto corresponde a un modelo de negocios cuyo fin es financiar los gastos asociados la gestión de la publicación. En estricto rigor, no existe un monto estandarizado del APC, por lo que su costo dependerá únicamente de la revista y que fluctúa según el pago de impuestos adicionales. Según [@socha_cuanto_2018], de las revistas de mayor renombre en la industria académica como [Elsevier](https://www.elsevier.com/open-science){target="_blank"}, [Springer](https://www.springer.com/la/open-access){target="_blank"}, [Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/index.html){target="_blank"} y [Taylor & Francis](https://authorservices.taylorandfrancis.com/publishing-open-access/){target="_blank"} se han adscrito al acceso abierto cobrando a los autores un costo de APC pero manteniendo su modelo de suscripción.
+
+```{r tab_2, include=FALSE}
+pacman::p_load(knitr, kableExtra) # librerias
+#devtools::install_github(repo="haozhu233/kableExtra", ref="a6af5c0") 
+
 tab_2 <- read.csv(file = "tabla_2.csv",header = 1,sep = ";",encoding = "UTF-8")
 ```
 
-```{r tabtax, echo=FALSE}
+```{r, echo=FALSE}
 knitr::kable(tab_2, col.names = c("Repositorio","APC mínimo","APC máximo","¿OA o Híbrido?"), caption = "Fluctuación del precio en dolares del APC en las principales revistas científicas") %>%
   kableExtra::kable_styling(
     full_width = T,
