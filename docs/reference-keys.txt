@@ -1,6 +1,7 @@
 fig:unnamed-chunk-1
-fig:fp
-tab:tabtax
+fig:unnamed-chunk-2
+fig:unnamed-chunk-3
+tab:unnamed-chunk-4
 propiedad
 qué-es-la-propiedad-intelectual-y-las-licencias
 tipos-de-licencias
@@ -9,7 +10,7 @@ formas-open-access
 qué-es-el-open-access
 por-qué-hacer-uso-del-open-access-en-mis-publicaciones
 cómo-se-publica-en-open-access
-researchgate-y-academia.edu-plataformas-de-aceso-abierto
+researchgate-academia.edu-y-sci-hub-plataformas-de-aceso-abierto
 revistas-de-acceso-abierto
 herramientas-para-publicar
 el-camino-hacia-la-publicación
