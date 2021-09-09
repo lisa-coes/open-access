@@ -6,6 +6,7 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 tab:tab3
 tab:tab2
+fig:piwowar2019
 propiedad
 sobre-la-propiedad-intelectual-y-las-licencias
 tipos-de-licencias
@@ -24,4 +25,3 @@ etapa-3-print
 revistas-para-publicar-con-open-access
 pagos-asociados-a-la-publicación-abierta
 cuál-es-el-destino-de-las-ciencias-sociales-en-el-mundo-del-open-access
-fig:piwowar2019
